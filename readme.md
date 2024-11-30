@@ -13,8 +13,6 @@ This is the backend of a **Social Media Platform** built using the MERN stack. T
 
 ## 📂 Folder Structure
 
-## 📂 Folder Structure
-
 ```plaintext
 /social-media-backend
   ├── /config
@@ -36,7 +34,7 @@ This is the backend of a **Social Media Platform** built using the MERN stack. T
   │     └── authMiddleware.js   # JWT authentication middleware
   └── server.js                 # Entry point to the backend
 
-
+```
 ## 🛠️ Installation and Setup
 
 Follow these steps to set up the backend:
